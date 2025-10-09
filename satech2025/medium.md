@@ -2,7 +2,7 @@
 # SawCTF Write-up
 
 ## Synopsis
-[cite_start]CTF inspired by the movie Saw, created by OFFSEC for SATECH/UFSC 2025[cite: 245]. [cite_start]This CTF involves a machine running HTTP and SSH services with vulnerabilities[cite: 246]. [cite_start]The solution primarily relies on source code analysis and hash cracking to obtain a user and password[cite: 246].
+CTF inspired by the movie Saw, created by OFFSEC for SATECH/UFSC 2025. This CTF involves a machine running HTTP and SSH services with vulnerabilities. The solution primarily relies on source code analysis and hash cracking to obtain a user and password.
 
 ## Enumeration
 The initial reconnaissance was done with an `nmap` scan to identify open ports and services on the machine.
